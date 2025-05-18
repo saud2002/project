@@ -1,0 +1,19 @@
+.btn{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+#login{
+    border: 2px solid black;
+    border-width: 3px;
+    border-radius: 15px;
+    width: 600px;
+}
+
+#sign{
+    border: 1px solid black;
+    border-width: 1px;
+    border-radius: 15px;
+    width: 600px;
+}
